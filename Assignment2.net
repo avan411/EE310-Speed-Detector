@@ -1,0 +1,35 @@
+* C:\Users\ashle\OneDrive\Documents\ELECTENG 310\Design-Simulation - part 2\Assignment2.asc
+V3 Vin 0 SINE({Vin_offset} {A} {f})
+D1 N004 0 KA3529
+B§I_P N002 0 I=5.55e-6*I(D1)+15e-8*white(1e8*time)
+C_0 N002 0 4.25p
+R_leak N002 0 16.7G
+C1 Vdet N002 7.5p
+R1 Vdet N002 100k
+V1 Vbias 0 2.5
+I1 0 N004 PULSE(100mA 0 0 0 0 12.5u 25u)
+V2 Vsupply 0 5
+XU1 NC_01 NC_02 NC_03 NC_04 NC_05 LM358
+C2 N003 Vdet 100n
+R2 N003 Vbias 100k
+R3 Vrx N001 100k
+R4 N001 Vbias 20k
+XU2 Vbias N002 Vsupply 0 Vdet LM358
+XU3 N003 N001 Vsupply 0 Vrx LM358
+.model D D
+.lib C:\Users\ashle\OneDrive\Documents\LTspiceXVII\lib\cmp\standard.dio
+.tran 0 100m 50m startup
+.param f=2.5k Vin_offset=3V A=1
+.include "KA3529 LTSpice Model.txt"
+* Photo-diode
+* For this param, change f between 1-2.5k, Vin_offset keep between 2-3V, and keep A low (around 1V)
+* Example SPICE directive for obtaining harmonic components\n.fourier {f} 100 V(vout)
+* Photo-diode\nWhen the transmitter and receiver are 100mm apart use the equation\nI=9.5e-6*I(D1)+15e-9*white(1e8*time)\n \nWhen the transmitter and receiver are 400mm apart use the equation\nI=0.55e-6*I(D1)+15e-9*white(1e8*time)
+* Transmitter
+* Receiver
+* .include LM393A.5_1
+.include eee305.lib
+.fourier {f} 100 V(vout)
+* 15+15
+.backanno
+.end

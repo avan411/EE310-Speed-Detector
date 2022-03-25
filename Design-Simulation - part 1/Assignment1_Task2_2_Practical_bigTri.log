@@ -1,0 +1,25 @@
+Circuit: * C:\Users\ashle\OneDrive\Documents\ELECTENG 310\Design-Simulation - part 1\Assignment1_Task2_2_Practical_bigTri.asc
+
+WARNING: Less than two connections to node VINPUT_CONDITIONED.  This node is used by R9.
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 1.01269e-005 to 1.03829e-005
+Heightened Def Con from 1.03829e-005 to 1.03849e-005
+Heightened Def Con from 1.03849e-005 to 1.03869e-005
+
+Date: Wed Mar 16 16:32:59 2022
+Total elapsed time: 7.779 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 768882
+traniter = 768857
+tranpoints = 180830
+accept = 132654
+rejected = 48179
+matrix size = 61
+fillins = 66
+solver = Normal
+Matrix Compiler1: 5.76 KB object code size  1.2/1.0/[0.3]
+Matrix Compiler2: off  [0.5]/0.7/0.6
+
