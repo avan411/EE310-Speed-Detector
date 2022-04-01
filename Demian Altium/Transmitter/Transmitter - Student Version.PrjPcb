@@ -65,40 +65,6 @@ GenerateClassCluster=0
 DocumentUniqueId=TDXOWRXC
 
 [Document2]
-DocumentPath=..\..\..\..\Downloads\ece components\ece components.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CQJUFDOJ
-
-[Document3]
-DocumentPath=..\..\..\..\Downloads\ece components\ece components.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FEFLTGHC
-
-[Document4]
 DocumentPath=EE310_example.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -115,41 +81,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JXBKCRYE
 
-[Document5]
-DocumentPath=..\..\..\Documents\GitHub\EE310-Light-Detector\Demian Altium\1_Triangle Wave Generator.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XFVDVYPT
-
-[Document6]
-DocumentPath=..\..\..\Documents\GitHub\EE310-Light-Detector\Demian Altium\2_Input Signal Conditioner.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TACRRJRB
-
-[Document7]
+[Document3]
 DocumentPath=3_PWM Generator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -166,7 +98,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKQDWSZQ
 
-[Document8]
+[Document4]
 DocumentPath=4_Darlington Pair Amplifier.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -183,7 +115,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HQHPEHZW
 
-[Document9]
+[Document5]
 DocumentPath=5_Regulator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -199,40 +131,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CMARBXKE
-
-[Document10]
-DocumentPath=..\..\..\Documents\GitHub\EE310-Light-Detector\Demian Altium\Transmitter.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=STIYGDFL
-
-[Document11]
-DocumentPath=..\..\..\Documents\GitHub\EE310-Light-Detector\Demian Altium\Transmitter.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VYWQNRWK
 
 [Configuration1]
 Name=Sources
