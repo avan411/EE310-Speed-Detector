@@ -48,6 +48,74 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=1_Triangle Wave Generator.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XFVDVYPT
+
+[Document2]
+DocumentPath=2_Input Signal Conditioner.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TACRRJRB
+
+[Document3]
+DocumentPath=Transmitter.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=STIYGDFL
+
+[Document4]
+DocumentPath=Transmitter.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VYWQNRWK
+
+[Document5]
 DocumentPath=EE310_example.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -64,7 +132,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDXOWRXC
 
-[Document2]
+[Document6]
 DocumentPath=EE310_example.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -81,7 +149,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JXBKCRYE
 
-[Document3]
+[Document7]
 DocumentPath=3_PWM Generator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -98,7 +166,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKQDWSZQ
 
-[Document4]
+[Document8]
 DocumentPath=4_Darlington Pair Amplifier.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -115,7 +183,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HQHPEHZW
 
-[Document5]
+[Document9]
 DocumentPath=5_Regulator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
