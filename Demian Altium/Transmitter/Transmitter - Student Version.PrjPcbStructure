@@ -1,3 +1,6 @@
-Record=TopLevelDocument|FileName=3_PWM Generator.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=3_PWM Generator.SchDoc|FileName=4_Darlington Pair Amplifier.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=3_PWM Generator.SchDoc|FileName=5_Regulator.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=Transmitter.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Transmitter.SchDoc|Designator=Amplifier|SchDesignator=Amplifier|FileName=4_Darlington Pair Amplifier.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=4_Darlington Pair Amplifier.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Transmitter.SchDoc|Designator=ISR|SchDesignator=ISR|FileName=2_Input Signal Conditioner.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=2_Input Signal Conditioner.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Transmitter.SchDoc|Designator=PWM Generator|SchDesignator=PWM Generator|FileName=3_PWM Generator.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=3_PWM Generator.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Transmitter.SchDoc|Designator=Regulator|SchDesignator=Regulator|FileName=5_Regulator.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=5_Regulator.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Transmitter.SchDoc|Designator=Triangle Wave Generator|SchDesignator=Triangle Wave Generator|FileName=1_Triangle Wave Generator.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=1_Triangle Wave Generator.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
