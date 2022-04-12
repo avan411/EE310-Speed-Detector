@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Receiver - Student Version.PrjPcb]
+   Generated File[Receiver.TXT]
+   Generated File[Receiver.LDP]
+   Generated File[Receiver.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:53:52 pm On 8/04/2022
